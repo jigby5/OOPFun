@@ -13,5 +13,3 @@ quote = Console.ReadLine();
 Console.WriteLine($"Number of words: {wt.WordCounter(quote)}");
 Console.WriteLine($"Number of characters: {wt.CharacterCounter(quote)}");
 wt.AlphabetCounter(quote);
-
-Console.WriteLine("This is a change!");
