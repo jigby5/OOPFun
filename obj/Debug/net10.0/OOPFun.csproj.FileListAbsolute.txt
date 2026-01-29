@@ -1,0 +1,14 @@
+/Users/jigby5/RiderProjects/OOPFun/bin/Debug/net10.0/OOPFun
+/Users/jigby5/RiderProjects/OOPFun/bin/Debug/net10.0/OOPFun.deps.json
+/Users/jigby5/RiderProjects/OOPFun/bin/Debug/net10.0/OOPFun.runtimeconfig.json
+/Users/jigby5/RiderProjects/OOPFun/bin/Debug/net10.0/OOPFun.dll
+/Users/jigby5/RiderProjects/OOPFun/bin/Debug/net10.0/OOPFun.pdb
+/Users/jigby5/RiderProjects/OOPFun/obj/Debug/net10.0/OOPFun.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jigby5/RiderProjects/OOPFun/obj/Debug/net10.0/OOPFun.AssemblyInfoInputs.cache
+/Users/jigby5/RiderProjects/OOPFun/obj/Debug/net10.0/OOPFun.AssemblyInfo.cs
+/Users/jigby5/RiderProjects/OOPFun/obj/Debug/net10.0/OOPFun.csproj.CoreCompileInputs.cache
+/Users/jigby5/RiderProjects/OOPFun/obj/Debug/net10.0/OOPFun.dll
+/Users/jigby5/RiderProjects/OOPFun/obj/Debug/net10.0/refint/OOPFun.dll
+/Users/jigby5/RiderProjects/OOPFun/obj/Debug/net10.0/OOPFun.pdb
+/Users/jigby5/RiderProjects/OOPFun/obj/Debug/net10.0/OOPFun.genruntimeconfig.cache
+/Users/jigby5/RiderProjects/OOPFun/obj/Debug/net10.0/ref/OOPFun.dll
